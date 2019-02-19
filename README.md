@@ -1,3 +1,3 @@
 # Blogged API
 
-Bloogd API created in Express.
+Bloggd API created in Express.
